@@ -7,3 +7,5 @@ if people use this watch they will understand the value of time.
 HRML5 CSS3 JS
 
 <h2>Screen Gif</h2>
+
+![](project.gif)
